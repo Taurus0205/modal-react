@@ -12,8 +12,8 @@ function App() {
     <>
       <div className="bored">
         <p className="bored__paragraph">
-          Bored? Nothing to do? Wanna play something interesting? Try this
-          button...
+          Bored? Nothing to do? <br /> Wanna play something interesting? <br />{" "}
+          Try this button...
         </p>
         <button
           className="bored__btn"
